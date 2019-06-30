@@ -35,8 +35,8 @@ export const friends = [
     },
     {
         name: 'Michell Walls',
-        likes: 'The TV show, The Flash',
-        dislikes: 'The Movie, Superman VS. Batman',
+        likes: 'The TV show The Flash',
+        dislikes: 'The movie Superman VS. Batman',
         picture: mitchsPic
 
     },
