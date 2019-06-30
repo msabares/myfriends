@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  font-family: 'Roboto Mono', monospace;
+}
+
+
+#myfriends {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 10px 20px;
+}
