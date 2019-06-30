@@ -24,7 +24,7 @@ export const friends = [
     {
         name: 'Paige Adrian',
         likes: 'Hip new memes',
-        dislikes: 'People still enjoying old memes',
+        dislikes: "People who don't know the hip new memes",
         picture: paigesPic
     },
     {
